@@ -1,10 +1,4 @@
 {
-<<<<<<< HEAD
-  "devDependencies": {
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.12"
-=======
   "name": "backend",
   "version": "1.0.0",
   "description": "",
@@ -23,6 +17,5 @@
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.18.0"
->>>>>>> f76bdd6aae0195c14033755436a85204452862ee
   }
 }
